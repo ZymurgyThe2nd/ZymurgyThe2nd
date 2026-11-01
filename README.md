@@ -1,5 +1,4 @@
 # ZymurgyThe2nd
-![image alt](https://github.com/ZymurgyThe2nd/ZymurgyThe2nd/blob/ddb8240fd132033b123e2b3b4db289c87275ea4e/LabyrinthDivider.jpg)
 ![image alt](https://github.com/ZymurgyThe2nd/ZymurgyThe2nd/blob/7238265f27a812bf3a391fa7b1251c2d06508403/CakeDivider.jpg)
 Guys did you know I really like the Ultra Beasts, so I trapped them and myself in my introduction
 
