@@ -1,5 +1,5 @@
 # ZymurgyThe2nd
-![image alt](https://github.com/ZymurgyThe2nd/Zymurgy-Intro/blob/01bbbd12270d41ea0e0341e434810048e2a8b251/WhiteLine.jpg)
+![image alt](https://github.com/ZymurgyThe2nd/ZymurgyThe2nd/blob/ddb8240fd132033b123e2b3b4db289c87275ea4e/LabyrinthDivider.jpg)
 ![image alt](https://github.com/ZymurgyThe2nd/Zymurgy-Intro/blob/c593cf011c7f00d3ea631f81cfe132814b8f1174/OrangeLine.jpg)
 ![image alt](https://github.com/ZymurgyThe2nd/Zymurgy-Intro/blob/4f650187f272709241b74392c7cb1db43e501e35/BlackLines.jpg)
 Guys did you know I really like the Ultra Beasts, so I trapped them and myself in my introduction
